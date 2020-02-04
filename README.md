@@ -1,1 +1,3 @@
 # palindrome
+
+Solo Stumper Project
